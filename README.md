@@ -1,12 +1,5 @@
-- 👋 Hi, I’m Java Positive
-- 👀 I’m interested in Your Mom
-- 🌱 I’m currently learning how to [[kromer]]
-- 💞️ I’m looking to fire a rocket!
-- 📫 How to reach me: dont.
-
-I am interested in graphics and drawing overall. I like to do whatever peaks my interest. I like scary stuff and deep hidden lores :)
-
-<!---
-TheySatan/ThemSatan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+17 y.o - They/Them<br>
+<hr>
+Greetings! A little about myself? Okay. I like to draw, play games and fantasize!<br>
+Check out my game on Roblox -> <a href="https://www.roblox.com/games/12990580350/Project-Open-Light">Project: Open Light</a><br>
+<hr>
